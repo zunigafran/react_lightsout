@@ -5,8 +5,9 @@
   background-color: rgba(169, 169, 169, 0.5);
   transition: background-color 0.5s ease;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 .Cell-lit {
-  background-color: lightseagreen;
+  background-color: orangered;
 }
